@@ -57,7 +57,7 @@ var textStrings_EN = {
     "warning"            : "warning: the following program\ncontains scenes of snobbery,\nrudeness & mass murder.\nviewer discretion is advised." ,
 
     // (cam-instructions.png) Camera Instructions
-    "pointAndClick"      : "POINT & CLICK" ,
+    "pointAndClick"      : "點擊 & 拍攝" ,
 
     // (chyron3.png)
     "chyronNothing"      : "WOWWEE, IT'S *NOTHING*" ,
@@ -161,7 +161,7 @@ var textStrings_DE = {
     "warning"            : "Warnung: die folgende Sendung\nenth\xE4lt Darstellungen von Arroganz,\nBeleidigungen & Gewalt.\nund ist nicht f\xFCr Kinder geeignet." ,
 
     // (cam-instructions.png) Camera Instructions
-    "pointAndClick"      : "POINT & CLICK" , // I'd leave that in English, even for the German translation. /stefan
+    "pointAndClick"      : "點擊 & 拍攝" , // I'd leave that in English, even for the German translation. /stefan
 
     // (chyron3.png)
     "chyronNothing"      : "Oh wow, *NICHTS*!" ,
@@ -210,7 +210,7 @@ var textStrings_DE = {
 
 var textStrings_ZH_TW = {
     // Act 1
-    "niceHat"              : "嗯哼 很棒的帽子"                                          ,
+    "niceHat"              : "嗯哼，很棒的帽子"                                          ,
     "outtaHere"            : "沒錯，掌握住那裡的失控"                                ,
     "getARoom"             : "噁，何不在房間裡恩愛？"                                  ,
     "notCoolAnymore"       : "這頂帽子已經不再酷炫"                          ,
@@ -222,51 +222,51 @@ var textStrings_ZH_TW = {
     "wowNothing"           : "哇嗚, 你的鏡頭下什麼東西都沒有"                             ,
 
     // Act 2
-    "crazySquareAttacks"   : "有瘋狂的 方形 四處攻擊"                                 ,
-    "justMissed"           : "喔, 有什麼被錯過了..."                                 ,
-    "somethingInteresting" : "(對！去拍下他們做了 *什麼* 有趣的事...)" ,
-    "whoIsScreaming"       : "(對！去拍下 *誰* 對他們大吼大叫)"               ,
-    "circleFearsSquares"   : "圓形們 害怕 方形"                                  ,
-    "whoScaresThem"        : "(對！去拍下他們 *誰* 使他們恐懼)"         ,
-    "areTheyScared"        : "(對！去拍下他們被 方形 *恐嚇* 時的樣子)"       , // not used
-    "squaresSnubCircles"   : "方形們 不屑 圓形"                                  ,
-    "areTheySnubbed"       : "(對！去拍下他們不屑 圓形的 *瞬間* )"        , // not used
-    "everyoneHates"        : "多數人皆討厭著其他人！！！"                           ,
+    "crazySquareAttacks"   : "有瘋狂的方人四處攻擊"                                 ,
+    "justMissed"           : "看來有什麼被錯過了..."                                 ,
+    "somethingInteresting" : "(多拍些更有趣的事情吧)" ,
+    "whoIsScreaming"       : "(去拍下*誰*在大吼大叫)"               ,
+    "circleFearsSquares"   : "圓人們害怕方人"                                  ,
+    "whoScaresThem"        : "(去拍下*誰*讓人恐懼)"         ,
+    "areTheyScared"        : "(去拍下他們被方人*恐嚇*時的樣子)"       , // not used
+    "squaresSnubCircles"   : "方人們不屑圓人"                                  ,
+    "areTheySnubbed"       : "(去拍下他們不屑圓人的*瞬間*)"        , // not used
+    "everyoneHates"        : "所有人都在互相仇恨！"                           ,
     "almostEveryoneHates"  : "幾乎所有人討厭著所有人..."                     ,
-    "squaresHateCircles"   : "方形們 討厭 圓形"                                  ,
-    "circlesHateSquares"   : "圓形們 討厭 方形"                                  ,
-    "areTheyYelling"       : "(對！去拍下他們朝別人 *嘶吼* 的樣子)"              , // not used
+    "squaresHateCircles"   : "方人們討厭圓人"                                  ,
+    "circlesHateSquares"   : "圓人們討厭方人"                                  ,
+    "areTheyYelling"       : "(去拍下他們朝別人*嘶吼*的樣子)"              , // not used
     "nerdsNow"             : "現在，這些書呆子們在幹麻？"                        ,
     "schockedPeep"         : "是什麼使這位民眾感到驚嚇?"                              ,
     "whatever"             : "無所謂"                                              ,
 
     // Act 3
     "ellipsis"             : ". . ."                                                 ,
-    "coolNoMore"           : "這些帽子已經不酷了, 你沒聽說嗎？"           ,
-    "beScared"             : "恐懼吧. 憤怒吧."                                  ,
+    "coolNoMore"           : "帽子已經不酷了, 你沒聽說嗎？"           ,
+    "beScared"             : "恐懼吧！憤怒吧！"                                  ,
 
     // MANIFESTO
     "manifesto" : [
        //"as if you viewers want GOOD news"       ,
-       "誰會想看 *這些人的互動* ?",
-       "和平只帶來無趣. 暴力則有助散播."    ,
+       "誰會想看這些人的互動?",
+       "和平只帶來無趣，暴力則有助散播。"    ,
        //"peace is boring. conflict gets clicks." ,
        "每個故事都需要一點衝突, 所以..."  ,
        //"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
-       "給我拿出觀眾們想看的！"
+       "請拍更多觀眾們想看的！"
     ] ,
 
     // -- Strings currently in graphics resources --
 
     // (bg_preload.png) Preload screen
     "playingTime"        : "遊戲時間約 5 分鐘" ,
-    "warning"            : "遊戲全程僅需要滑鼠操作" ,
+    "warning"            : "遊戲全程僅需用滑鼠操作" ,
 
     // (cam-instructions.png) Camera Instructions
-    "pointAndClick"      : "對準 & 點擊" ,
+    "pointAndClick"      : "點擊 & 拍攝" ,
 
     // (chyron3.png)
-    "chyronNothing"      : "哇嗚, 你的鏡頭下 *什麼東西都沒有*" ,
+    "chyronNothing"      : "你的鏡頭下 *什麼東西都沒有*" ,
 
     // (credits0001.png)
     "createdBy"          : "製作來自" ,
