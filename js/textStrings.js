@@ -57,7 +57,7 @@ var textStrings_EN = {
     "warning"            : "warning: the following program\ncontains scenes of snobbery,\nrudeness & mass murder.\nviewer discretion is advised." ,
 
     // (cam-instructions.png) Camera Instructions
-    "pointAndClick"      : "POINT & CLICK" ,
+    "pointAndClick"      : "點擊 & 拍攝" ,
 
     // (chyron3.png)
     "chyronNothing"      : "WOWWEE, IT'S *NOTHING*" ,
@@ -161,7 +161,7 @@ var textStrings_DE = {
     "warning"            : "Warnung: die folgende Sendung\nenth\xE4lt Darstellungen von Arroganz,\nBeleidigungen & Gewalt.\nund ist nicht f\xFCr Kinder geeignet." ,
 
     // (cam-instructions.png) Camera Instructions
-    "pointAndClick"      : "POINT & CLICK" , // I'd leave that in English, even for the German translation. /stefan
+    "pointAndClick"      : "點擊 & 拍攝" , // I'd leave that in English, even for the German translation. /stefan
 
     // (chyron3.png)
     "chyronNothing"      : "Oh wow, *NICHTS*!" ,
@@ -260,7 +260,7 @@ var textStrings_ZH_TW = {
 
     // (bg_preload.png) Preload screen
     "playingTime"        : "遊戲時間約 5 分鐘" ,
-    "warning"            : "警告: 這個遊戲包含了\n勢利、粗魯、暴力血腥的場景,\n請遊戲者慎重斟酌體驗" ,
+    "warning"            : "遊戲全程僅需用【滑鼠】即可" ,
 
     // (cam-instructions.png) Camera Instructions
     "pointAndClick"      : "對準 & 點擊" ,
